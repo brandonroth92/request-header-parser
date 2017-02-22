@@ -15,9 +15,9 @@ You can test it at [https://brandonr-header-micro.herokuapp.com/] (https://brand
 
 ```javascript
 {
-  "ipaddress": "your public ip address",
-  "language": "en-US",
-  "software": "Windows NT 10.0; WOW64"
+  "ipaddress":"your public ip address",
+  "language":"en-US",
+  "software":"Windows NT 10.0; WOW64"
 }
 ```
 
